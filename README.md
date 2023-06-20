@@ -1,5 +1,5 @@
 <body>
-  <h1>Documentation of RealGoblins Auto CCS Lua API</h1>
+  <h1>Documentation of RealGoblins Auto CCS Lua Executor.</h1>
 
   <h2>Functions</h2>
   <table>
