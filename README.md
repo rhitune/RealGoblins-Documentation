@@ -1,6 +1,7 @@
 <body>
   <h1>Documentation of RealGoblins Auto CCS Lua Executor.</h1>
 
+<p>DM for paid scripts. Discord : rhitune#0821 or rhitune </p>
   <h2>Functions</h2>
   <table>
     <tr>
